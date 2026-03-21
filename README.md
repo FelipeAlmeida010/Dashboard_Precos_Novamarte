@@ -21,12 +21,18 @@ Como criar o ambiente virtual
 
 No terminal, execute:
 
-python -m venv venv
+py -m venv venv
 Como ativar o ambiente virtual
+
+
 Git Bash / Bash
 source venv/Scripts/activate
+
+
 PowerShell
 venv\Scripts\Activate.ps1
+
+
 Prompt de Comando (CMD)
 venv\Scripts\activate
 
@@ -37,7 +43,7 @@ Como instalar as dependências
 
 Com o ambiente virtual ativado, rode:
 
-pip install -r requirements.txt
+py install -r requirements.txt
 Como rodar o projeto
 
 Com o ambiente virtual ativado, execute:
