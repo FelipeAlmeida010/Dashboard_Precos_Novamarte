@@ -265,4 +265,4 @@ if df is not None:
         st.error(f"Ocorreu um erro ao processar os dados: {e}")
 
 else:
-    st.info("Aguardando carregamento da planilha.")
+    st.info("Aguardando carregamento da planilha.") 
