@@ -107,7 +107,7 @@ Como instalar as dependências
 
 Com o ambiente virtual ativado, rode:
 
-py install -r requirements.txt
+pip install -r requirements.txt
 Como rodar o projeto
 
 Com o ambiente virtual ativado, execute:
